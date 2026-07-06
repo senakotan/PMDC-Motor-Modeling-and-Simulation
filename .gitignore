@@ -1,0 +1,8 @@
+slprj/
+*.slxc
+*.autosave
+*.asv
+octave-workspace
+.DS_Store
+Thumbs.db
+Desktop.ini
